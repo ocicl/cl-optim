@@ -1,0 +1,9 @@
+* cl-optim
+
+A collection of mathematical optimization algorithms.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/shamazmazum/cl-optim.git |
+| commit  | 2b66a18                                         |
+| systems | cl-optim                                        |
+|---------+-------------------------------------------------|
