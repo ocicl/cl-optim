@@ -7,3 +7,4 @@ A collection of mathematical optimization algorithms.
 | commit  | de96f71                                         |
 | systems | cl-optim                                        |
 |---------+-------------------------------------------------|
+ 
