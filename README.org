@@ -4,7 +4,7 @@ A collection of mathematical optimization algorithms.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/shamazmazum/cl-optim.git |
-| commit  | dfba306                                         |
+| commit  | 3e0c33e                                         |
 | systems | cl-optim                                        |
 |---------+-------------------------------------------------|
   
